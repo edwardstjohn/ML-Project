@@ -1,0 +1,2 @@
+Instructions:Model testing is performed in ‘Testing’ file, which imports the best NB and RF models from RF_model (as rf_Mdl) and NB_model (as nb_Mdl) respectivelyTesting also visualises the confusion matrices for each model.Software:MATLAB_R2021b Update 1Statistics and Machine Learning Toolbox R2021b by MathWorks also requiredDataset:https://www.kaggle.com/tejashvi14/employee-future-predictionOther Software:
+Python was used for initial data exploration
